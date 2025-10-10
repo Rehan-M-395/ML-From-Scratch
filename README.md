@@ -11,7 +11,7 @@ Basic Python libraries like `math`, `random`, and `numpy` are used where necessa
 Examples of implemented algorithms:
 
 - K-Nearest Neighbors (KNN)
-
+- Perceptron-Trick
 > More algorithms will be added over time.
 
 ---
