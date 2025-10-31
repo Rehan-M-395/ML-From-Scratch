@@ -20,4 +20,4 @@ Examples of implemented algorithms:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ML-From-Scratch.git
+https://github.com/Rehan-M-395/ML-From-Scratch
