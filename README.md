@@ -12,6 +12,8 @@ Examples of implemented algorithms:
 
 - K-Nearest Neighbors (KNN)
 - Perceptron-Trick
+- Gradient Descent 
+- Batch Gradient Descent
 > More algorithms will be added over time.
 
 ---
@@ -19,5 +21,4 @@ Examples of implemented algorithms:
 ## Usage
 
 1. Clone the repository:
-```bash
-https://github.com/Rehan-M-395/ML-From-Scratch
+git clone https://github.com/Rehan-M-395/ML-From-Scratch.git
