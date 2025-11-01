@@ -14,6 +14,7 @@ Examples of implemented algorithms:
 - Perceptron-Trick
 - Gradient Descent 
 - Batch Gradient Descent
+- Perceptron Loss Funciton
 > More algorithms will be added over time.
 
 ---
