@@ -16,6 +16,7 @@ Examples of implemented algorithms:
 - Batch Gradient Descent
 - Perceptron Loss Funciton
 - Random Forest with help of Decision Tree
+- K-Means Clustering
 > More algorithms will be added over time.
 
 ---
